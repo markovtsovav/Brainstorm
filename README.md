@@ -10,8 +10,8 @@ Graduate Work / Выпускная квалификационная работа
 - папка "templates" с файлом "templat2.html"
 - файл "main.py"
 2. Файл с общим кодом исследования: "Brainstorm_VMarkovtsova.ipynb"
-- для корректной работы кода необходимо скачать данные "X-bp.xlsx" и "X_nup.xlsx".
-3. Папка "datasets": исходные данные "X-bp.xlsx" и "X_nup.xlsx"
+- для корректной работы кода необходимо скачать данные "X_bp.xlsx" и "X_nup.xlsx".
+3. Папка "datasets": исходные данные "X_bp.xlsx" и "X_nup.xlsx"
 4. LICENSE
 5. README.md
 
